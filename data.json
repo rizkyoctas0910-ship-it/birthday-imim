@@ -30,8 +30,8 @@
     {
       "title": "The day we got together",
       "text": "Officially us",
-      "media": "images/picture2.jpeg", 
-      "caption": "NGEPUNK DI BANDUNK !!!!!!!"
+      "media": "images/pictures3.jpeg", 
+      "caption": "look how happy we are"
     },
     {
       "title": "Our first trip",
@@ -49,11 +49,11 @@
   "todo": [
     {
       "text": "Birthday cake",
-      "done": true
+      "done": false
     },
     {
       "text": "Main gift",
-      "done": false
+      "done": true
     },
     {
       "text": "Special dinner",
@@ -61,7 +61,7 @@
     },
     {
       "text": "Photos together",
-      "done": false
+      "done": true
     },
     {
       "text": "Wishes from family and friends",
